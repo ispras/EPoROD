@@ -1,0 +1,13 @@
+*.png
+*.h5
+*.identCustom
+*.zip
+*move.sh
+*rename.sh
+*venv
+eye_project_venv
+*.ident
+*.hdf5
+.ipynb_checkpoints
+__pycache__
+nohup.out
