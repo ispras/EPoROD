@@ -24,7 +24,7 @@ This repository doesn't contain images -- to train the CNNs, they should be adde
 
 <b>Usage</b>
 
-For CNN training run the file "notebooks/training/train.ipynb" in jupyter-lab. The model specifications are listed in the file "notebooks/training/train-config.json". The field from this config will be reffered in this guide as config["config_field"].<br/>
+For CNN training run the file "notebooks/training/train.ipynb" in jupyter-lab. The model specifications are listed in the file "notebooks/training/train-config.json". The fields from this config will be referred in this guide as config["config_field"].<br/>
 
 For CNN testing run the file "notebooks/testing/test.ipynb"<br/>
 
