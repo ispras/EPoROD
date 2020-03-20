@@ -28,4 +28,4 @@ For CNN training run the file "notebooks/training/train.ipynb" in jupyter-lab. T
 
 For CNN testing run the file "notebooks/testing/test.ipynb"<br/>
 
-Notebook "notebooks/training/train.ipynb" creates a directory named as config["model_name"] with in config["all_models_dir"] (by default it's "models"). This directory contains trained models (*.h5 files) (one with best score on train dataset and one obtained after the last epoch) , wodel_weights (for each epoch), history files with train scores for each epoch. After running "notebooks/testing/test.ipynb" test scores and images of the learning curves are put there.<br/>
+Notebook "notebooks/training/train.ipynb" creates a directory named as config["model_name"]  in  the directory config["all_models_dir"] (by default it's "models"). This directory contains trained models (*.h5 files) (one with best score on train dataset and one obtained after the last epoch) , wodel_weights (for each epoch), history files with train scores for each epoch. After running "notebooks/testing/test.ipynb" test scores and images of the learning curves are put there.<br/>
