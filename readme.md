@@ -17,7 +17,7 @@ train -- dataframe and images for trainig<br/>
 train_flipped -- the same as "train", but the images of "non-retina" class got vertivally and horisontally flipped duplicates<br/>
 test -- dataframe and images for testing<br/>
 crossval_10 -- dataframes for 10-flod cross-validation. Note, that images for this procedure are taken from "train_flipped" dir<br/>
-not_used -- images, which were sorted out during preprocessing (mostly non-containg anything)r<br/>
+not_used -- images, which were sorted out during preprocessing (mostly non-containg anything).<br/>
 
 This repository doesn't contain images -- to train the CNNs, they should be added manually in train and test directories.<br/>
 
